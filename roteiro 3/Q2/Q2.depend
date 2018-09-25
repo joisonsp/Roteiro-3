@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\aluno.ci-hp\desktop\q2\main.cpp
+	<iostream>
+
+1537889830 source:c:\users\aluno.ci-hp\desktop\q2\src\circulo.cpp
+	"Circulo.h"
+
+1537889796 c:\users\aluno.ci-hp\desktop\q2\include\circulo.h
+	"FiguraGeometrica.h"
+	<math.h>
+
+1537889536 c:\users\aluno.ci-hp\desktop\q2\include\figurageometrica.h
+
+1537889851 source:c:\users\aluno.ci-hp\desktop\q2\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1537890462 source:c:\users\aluno.ci-hp\desktop\q2\src\triangulo.cpp
+	"Triangulo.h"
+
+1537890454 c:\users\aluno.ci-hp\desktop\q2\include\triangulo.h
+	"FiguraGeometrica.h"
+
